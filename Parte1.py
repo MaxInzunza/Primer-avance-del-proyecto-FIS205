@@ -1,10 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-from potenciales import (
-    potencial_morse,
-    potencial_armonico,
-    energias_armonicas_analiticas)
+from potenciales import (potencial_morse, potencial_armonico, energias_armonicas_analiticas)
 
 from schrodinger import resolver_schrodinger_1d, estados_ligados
 
