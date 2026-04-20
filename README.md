@@ -1,4 +1,4 @@
-# Primer avance de proyecto FIS205
+# Primer avance de proyecto y Tarea 1! FIS205
 
 ## Tema
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
@@ -9,7 +9,7 @@ Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
 - `potenciales.py`: Potenciales de Morse y HO, además de algun otro
 - `schrodinger.py`: resolución numérica para la ecuación de Schrödinger 1D
 - `informe_primer_avance.pdf`: informe para el primer avance del proyecto
-
+- `Tarea1 FIS205`: Carpeta con 3 problemas resueltos y un pdf con las respuestas
 ## Estudiante
 Maximiliano Inzunza
 
