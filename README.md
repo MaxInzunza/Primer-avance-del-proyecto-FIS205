@@ -8,7 +8,7 @@ Hasta el segundo avance estan hechas 4/5 partes, los demás codigos son auxiliar
 
 - `Parte1.py`: Cálculo de autovalores y autofunciones del potencial de Morse.
 - `Parte2.py`: Dinámica clásica con integrador RK4.
-- `Parte3.py`: Funciones de onda dinámicas/estacionarias y comparación Morse vs HO.
+- `Parte3.py`: Funciones de onda estacionarias/dinámicas y comparación Morse vs HO.
 - `Parte4.py`: Comparación cuántica vs. clásica para la dinámica en el espacio de fase
 - `potenciales.py`: Potenciales de Morse y HO, además de algun otro
 - `schrodinger.py`: Resolución numérica para la ecuación de Schrödinger 1D
