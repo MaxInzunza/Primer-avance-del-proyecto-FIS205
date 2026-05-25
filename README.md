@@ -1,4 +1,4 @@
-# Primer avance de proyecto y Tarea 1! FIS205
+# Segundo avance de proyecto! FIS205
 
 ## Tema
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
