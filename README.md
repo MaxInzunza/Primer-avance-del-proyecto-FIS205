@@ -4,11 +4,15 @@
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
 
 ## Archivos
-- `Parte1.py`: Cálculo de autovalores y autofunciones del potencial de Morse
-- `Parte2.py`: Dinámica clásica con integrador RK4
+Hasta el segundo avance estan hechas 4/5 partes, los demás codigos son auxiliares utilizados en distintas partes del proyecto.
+
+- `Parte1.py`: Cálculo de autovalores y autofunciones del potencial de Morse.
+- `Parte2.py`: Dinámica clásica con integrador RK4.
+- `Parte3.py`: Funciones de onda dinámicas/estacionarias y comparación Morse vs HO.
+- `Parte4.py`: Comparación cuántica vs. clásica para la dinámica en el espacio de fase
 - `potenciales.py`: Potenciales de Morse y HO, además de algun otro
-- `schrodinger.py`: resolución numérica para la ecuación de Schrödinger 1D
-- `informe_primer_avance.pdf`: informe para el primer avance del proyecto
+- `schrodinger.py`: Resolución numérica para la ecuación de Schrödinger 1D
+- `informe_segundo_avance.pdf`: Informe para el segundo avance del proyecto (incorporación de Parte3.py y Parte4.py)
 - `Tarea1 FIS205`: Carpeta con 3 problemas resueltos y un pdf con las respuestas
 ## Estudiante
 Maximiliano Inzunza
