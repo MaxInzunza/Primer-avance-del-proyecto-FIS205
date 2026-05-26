@@ -4,7 +4,7 @@
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
 
 ## Archivos
-Hasta el segundo avance estan hechas 4/5 partes (un 80% aprox del proyecto total), los demás codigos son auxiliares utilizados en distintas partes del proyecto.
+Hasta el segundo avance estan hechas 4/5 partes (un 80% aprox del proyecto total), los demás codigos son auxiliares utilizados en distintas partes del proyecto. A continuación están descritas las partes que componen el proyecto:
 
 - `Parte1.py`: Cálculo de autovalores y autofunciones del potencial de Morse.
 - `Parte2.py`: Dinámica clásica con integrador RK4.
