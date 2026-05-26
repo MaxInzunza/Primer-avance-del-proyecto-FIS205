@@ -164,6 +164,8 @@ if __name__ == "__main__":
     # ==========================================================
     # Funcion para actualizar la densidad de prob con sliders
     # ==========================================================
+
+    # Esta funcion solamente esta hecha para que se pueda ver visualmente el cambio a distintos tiempos y poder comparar mejor entre Morse y HO    
     def actualizar(val):
         t = slider_t.val
 
