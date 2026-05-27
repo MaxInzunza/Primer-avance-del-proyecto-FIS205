@@ -3,7 +3,7 @@
 ## Tema
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
 
-**Universidad Técnica Federico Santa María** **Curso:** Física Computacional FIS205 
+**Universidad Técnica Federico Santa María** **Curso:** Física Computacional FIS205 \
 **Profesores:** Ariel Norambuena, Nicolas Viaux \
 **Ayudante:** Cristóbal Benavides (Balo!) \
 **Estudiante:** Maximiliano Inzunza
