@@ -3,6 +3,11 @@
 ## Tema
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
 
+**Universidad Técnica Federico Santa María** **Curso:** Física Computacional FIS205 
+**Profesores:** Ariel Norambuena, Nicolas Viaux \
+**Ayudante:** Cristóbal Benavides (Balo!) \
+**Estudiante:** Maximiliano Inzunza
+
 ## Archivos
 Hasta el segundo avance estan hechas 4/5 partes (un 80% aprox del proyecto total), los demás codigos son auxiliares utilizados en distintas partes del proyecto. A continuación están descritas las partes que componen el proyecto:
 
@@ -14,11 +19,3 @@ Hasta el segundo avance estan hechas 4/5 partes (un 80% aprox del proyecto total
 - `schrodinger.py`: Resolución numérica para la ecuación de Schrödinger 1D
 - `informe_segundo_avance.pdf`: Informe para el segundo avance del proyecto (incorporación de Parte3.py, Parte4.py y resultados obtenidos)
 - `Tarea1 FIS205`: Carpeta con 3 problemas resueltos y un pdf con las respuestas
-## Estudiante
-Maximiliano Inzunza
-
-## Profesores
-Ariel Norambuena, Nicolás Viaux
-
-## Ayudante
-Cristóbal Benavides (Balo!)
