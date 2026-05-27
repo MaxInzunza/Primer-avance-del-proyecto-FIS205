@@ -3,13 +3,16 @@
 ## Tema
 Simulador de Potencial de Morse: Dinámica Vibracional y Espectro IR
 
-**Universidad Técnica Federico Santa María** **Curso:** Física Computacional FIS205 \
 **Profesores:** Ariel Norambuena, Nicolas Viaux \
 **Ayudante:** Cristóbal Benavides (Balo!) \
 **Estudiante:** Maximiliano Inzunza
 
+## Descripción del proyecto
+
+Proyecto sobre el potencial de Morse aplicado a dinámica vibracional molecular en 1D. Hasta ahora se ha implementado la resolución numérica de la ecuación de Schrödinger para obtener autoenergías y autofunciones, la integración clásica mediante RK4, la evolución temporal de funciones de onda por superposición de autoestados y una comparación entre la dinámica cuántica y clásica en el espacio de fase.
+
 ## Archivos
-Hasta el segundo avance estan hechas 4/5 partes (un 80% aprox del proyecto total), los demás codigos son auxiliares utilizados en distintas partes del proyecto. A continuación están descritas las partes que componen el proyecto:
+A continuación están descritas las partes que componen el proyecto:
 
 - `Parte1.py`: Cálculo de autovalores y autofunciones del potencial de Morse.
 - `Parte2.py`: Dinámica clásica con integrador RK4.
