@@ -41,7 +41,7 @@ def trayectoriaQ(x, energias, autofunciones, indices_estados, coeficientes, tiem
 
     return x_esperado, p_esperado
 
-
+# Por si necesito usar alguna función de esta parte en el futuro
 if __name__ == "__main__":
 
     
