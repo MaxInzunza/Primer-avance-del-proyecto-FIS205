@@ -31,7 +31,7 @@ def densidad_probabilidad(psi_t):
     return np.abs(psi_t) ** 2
 
 
-# Para poder utilizar las funciones de arriba en otros archivos .py (Parte 4)
+# Para poder utilizar las funciones de arriba en otros archivos sin que corran el codigo completo (Uso funciones de acá en la parte 4)
 if __name__ == "__main__":
 
     # Parametros usados
@@ -43,8 +43,8 @@ if __name__ == "__main__":
 
 
     # Malla espacial
-    x_min = -2.0
-    x_max = 8.0
+    x_min = -2
+    x_max = 8
     N = 1200
     x = np.linspace(x_min, x_max, N)
 
